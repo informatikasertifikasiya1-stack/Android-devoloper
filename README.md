@@ -1,8 +1,8 @@
-# 👋 Nazilə Məhərrəmona
+# 👋 Nazile Meherremona
 ### Android Developer
 
 Hello!  
-I am **Nazilə Məhərrəmona**, an **Android Developer** passionate about building modern and user-friendly mobile applications. I enjoy transforming ideas into high-performance and scalable Android apps. Writing clean code and creating a great user experience are very important to me.
+I am **Nazile Meherremona**, an **Android Developer** passionate about building modern and user-friendly mobile applications. I enjoy transforming ideas into high-performance and scalable Android apps. Writing clean code and creating a great user experience are very important to me.
 
 ---
 
