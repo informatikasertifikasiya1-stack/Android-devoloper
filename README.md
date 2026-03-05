@@ -1,8 +1,8 @@
-# 👋 Nazile Meherremona
+# 👋 Nazilə Məhərrəmona
 ### Android Geliştirici
 
 Merhaba!  
-Ben **Nazile Meherremona**, modern ve kullanıcı dostu mobil uygulamalar geliştirmeye tutkulu bir **Android geliştiricisiyim**. Fikirleri yüksek performanslı ve ölçeklenebilir Android uygulamalarına dönüştürmeyi seviyorum. Temiz kod yapısı ve iyi bir kullanıcı deneyimi oluşturmak benim için çok önemlidir.
+Ben **Nazilə Məhərrəmona**, modern ve kullanıcı dostu mobil uygulamalar geliştirmeye tutkulu bir **Android geliştiricisiyim**. Fikirleri yüksek performanslı ve ölçeklenebilir Android uygulamalarına dönüştürmeyi seviyorum. Temiz kod yapısı ve iyi bir kullanıcı deneyimi oluşturmak benim için çok önemlidir.
 
 ---
 
@@ -53,8 +53,7 @@ Bu GitHub deposu aşağıdaki konuları gösteren Android projelerini içermekte
 
 Yeni projeler, iş birlikleri ve öğrenme fırsatları için benimle iletişime geçebilirsiniz.
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: informatikasertifikasiya1@gmail.com
 
 ---
 
