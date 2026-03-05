@@ -1,60 +1,61 @@
 # 👋 Nazilə Məhərrəmona
-### Android Geliştirici
+### Android Developer
 
-Merhaba!  
-Ben **Nazilə Məhərrəmona**, modern ve kullanıcı dostu mobil uygulamalar geliştirmeye tutkulu bir **Android geliştiricisiyim**. Fikirleri yüksek performanslı ve ölçeklenebilir Android uygulamalarına dönüştürmeyi seviyorum. Temiz kod yapısı ve iyi bir kullanıcı deneyimi oluşturmak benim için çok önemlidir.
-
----
-
-## 🚀 Hakkımda
-
-- 📱 Android uygulama geliştiricisi
-- 💻 Modern mobil uygulamalar geliştirme deneyimi
-- 🎯 Performanslı ve sürdürülebilir kod yazmaya odaklı
-- 📚 Android ekosistemindeki yeni teknolojileri sürekli öğreniyorum
+Hello!  
+I am **Nazilə Məhərrəmona**, an **Android Developer** passionate about building modern and user-friendly mobile applications. I enjoy transforming ideas into high-performance and scalable Android apps. Writing clean code and creating a great user experience are very important to me.
 
 ---
 
-## 🛠 Teknoloji Yığını
+## 🚀 About Me
 
-- **Diller:** Kotlin, Java  
+- 📱 Android application developer  
+- 💻 Experienced in developing modern mobile applications  
+- 🎯 Focused on writing performant and maintainable code  
+- 📚 Continuously learning new technologies in the Android ecosystem  
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Kotlin, Java  
 - **Android:** Android SDK, Jetpack Components  
-- **Mimari:** MVVM, Clean Architecture  
+- **Architecture:** MVVM, Clean Architecture  
 - **UI:** Jetpack Compose, XML Layouts  
-- **Araçlar:** Android Studio, Git, GitHub  
-- **Networking:** Retrofit, REST API  
-- **Veritabanı:** Room, SQLite  
-- **Diğer:** Firebase, Material Design
+- **Tools:** Android Studio, Git, GitHub  
+- **Networking:** Retrofit, REST APIs  
+- **Database:** Room, SQLite  
+- **Other:** Firebase, Material Design  
 
 ---
 
-## 📂 Projeler
+## 📂 Projects
 
-Bu GitHub deposu aşağıdaki konuları gösteren Android projelerini içermektedir:
+This GitHub repository includes Android projects demonstrating:
 
-- Modern Android geliştirme teknikleri
-- Clean Architecture kullanımı
-- API entegrasyonu
-- Firebase entegrasyonu
-- Kullanıcı dostu ve responsive arayüzler
-
----
-
-## 🌱 Şu Anda Öğreniyorum
-
-- Jetpack Compose ileri seviye kullanım
-- Dependency Injection (Hilt / Dagger)
-- Android performans optimizasyonu
-- Ölçeklenebilir mobil uygulama mimarisi
+- Modern Android development techniques  
+- Clean Architecture implementation  
+- API integration  
+- Firebase integration  
+- Responsive and user-friendly UI  
 
 ---
 
-## 🤝 İletişim
+## 🌱 Currently Learning
 
-Yeni projeler, iş birlikleri ve öğrenme fırsatları için benimle iletişime geçebilirsiniz.
+- Advanced Jetpack Compose  
+- Dependency Injection (Hilt / Dagger)  
+- Android performance optimization  
+- Scalable mobile app architecture  
+
+---
+
+## 🤝 Contact
+
+You can contact me for new projects, collaborations, or learning opportunities.
 
 - 📧 Email: informatikasertifikasiya1@gmail.com
 
 ---
 
-⭐ Eğer projelerimi faydalı bulduysanız repo'ları **star ⭐** vererek destekleyebilirsiniz.
+⭐ If you find my work useful, feel free to **star the repositories** and follow my profile.
+
